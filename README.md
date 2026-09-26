@@ -22,10 +22,7 @@ A portable agent skill that turns complex product, AI, and technical language in
 - Treat clarity, privacy, and reliability as product requirements.
 - Share useful work in public whenever possible.
 
-## Connect
-
-- Instagram: [@alimokhtari.ai](https://www.instagram.com/alimokhtari.ai/)
-- Email: [thisaimentor10@gmail.com](mailto:thisaimentor10@gmail.com)
+## Collaboration
 
 I am open to thoughtful collaboration on useful AI, automation, and developer-tooling projects.
 
