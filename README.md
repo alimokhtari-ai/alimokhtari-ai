@@ -1,8 +1,6 @@
-# Ali Mokhtari
+# Building useful software, clearly.
 
-### Software builder focused on AI, automation, and human-centered digital products.
-
-I build practical tools that make complex work feel clear, reliable, and useful. My current focus is applied AI, workflow automation, and thoughtful product experiences.
+I am **Ali Mokhtari**, a software builder focused on AI, automation, and human-centered digital products. I turn complex work into clear, reliable, and useful tools.
 
 ## Focus
 
@@ -13,7 +11,7 @@ I build practical tools that make complex work feel clear, reliable, and useful.
 
 ## Featured work
 
-### [Human Simple Frontstage](https://github.com/alimokhtariw100/human-simple-frontstage)
+### [Human Simple Frontstage](https://github.com/alimokhtari-ai/human-simple-frontstage)
 
 A portable agent skill that turns complex product, AI, and technical language into clear, natural Persian while preserving meaning, truth, and dignity.
 
@@ -24,7 +22,10 @@ A portable agent skill that turns complex product, AI, and technical language in
 - Treat clarity, privacy, and reliability as product requirements.
 - Share useful work in public whenever possible.
 
-## Collaboration
+## Connect
+
+- Instagram: [@alimokhtari.ai](https://www.instagram.com/alimokhtari.ai/)
+- Email: [thisaimentor10@gmail.com](mailto:thisaimentor10@gmail.com)
 
 I am open to thoughtful collaboration on useful AI, automation, and developer-tooling projects.
 
