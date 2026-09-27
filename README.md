@@ -1,6 +1,6 @@
-# Building useful software, clearly.
+# Ali Mokhtari — Applied AI, Automation & Developer Tools
 
-I am **Ali Mokhtari**, a software builder focused on AI, automation, and human-centered digital products. I turn complex work into clear, reliable, and useful tools.
+I build practical AI and automation tools that turn complex work into clear, reliable outcomes for people.
 
 ## Focus
 
@@ -9,11 +9,22 @@ I am **Ali Mokhtari**, a software builder focused on AI, automation, and human-c
 - Developer tools and reusable workflows
 - Clear, accessible product experiences
 
-## Featured work
+## Selected open-source work
+
+### [Plain Language Product Copy](https://github.com/alimokhtari-ai/plain-language-product-copy)
+
+An open Agent Skill for converting dense AI, product, and technical language into clear, trustworthy user-facing English. It includes practical examples, quality gates, reproducible installation, and automated package validation.
 
 ### [Human Simple Frontstage](https://github.com/alimokhtari-ai/human-simple-frontstage)
 
-A portable agent skill that turns complex product, AI, and technical language into clear, natural Persian while preserving meaning, truth, and dignity.
+A portable Agent Skill for turning complex product, AI, and technical language into clear, natural Persian—while preserving meaning, truth, and dignity.
+
+## Engineering signals
+
+- Public source code with focused documentation and reproducible setup
+- Automated validation and package artifacts through GitHub Actions
+- Clear contribution, security, and conduct standards
+- Product-language work that treats clarity, privacy, and informed choice as requirements
 
 ## How I work
 
@@ -24,7 +35,7 @@ A portable agent skill that turns complex product, AI, and technical language in
 
 ## Collaboration
 
-I am open to thoughtful collaboration on useful AI, automation, and developer-tooling projects.
+I am open to thoughtful collaboration on useful AI, automation, developer-tooling, and product-clarity projects.
 
 ---
 
