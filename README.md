@@ -1,15 +1,19 @@
-# Ali Mokhtari — Applied AI, Automation & Developer Tools
+# Ali Mokhtari — Applied AI Builder × Educator
 
-I build practical AI and automation tools that turn complex work into clear, reliable outcomes for people.
+I build practical AI systems, agent evaluations, and automation tools—and document the reasoning clearly enough for others to use and extend them.
 
 ## Focus
 
-- Applied AI and agent workflows
+- Applied AI, agent workflows, and evaluation systems
 - Automation for real-world operations
 - Developer tools and reusable workflows
-- Clear, accessible product experiences
+- Clear technical education and accessible product experiences
 
 ## Selected open-source work
+
+### [Agent Eval Lab](https://github.com/alimokhtari-ai/agent-eval-lab)
+
+An offline-first Python harness for evaluating AI-agent tool use, structured outputs, latency budgets, and failure behavior. It uses deterministic task fixtures, transparent grading, and CI validation without pretending that a mock adapter is a production-model benchmark.
 
 ### [Plain Language Product Copy](https://github.com/alimokhtari-ai/plain-language-product-copy)
 
@@ -21,9 +25,9 @@ A portable Agent Skill for turning complex product, AI, and technical language i
 
 ## Engineering signals
 
-- Public source code with focused documentation and reproducible setup
-- Automated validation and package artifacts through GitHub Actions
-- Clear contribution, security, and conduct standards
+- Deterministic evaluation fixtures, focused documentation, and reproducible setup
+- Automated validation through GitHub Actions across supported runtimes
+- Clear contribution, security, and conduct standards for reusable projects
 - Product-language work that treats clarity, privacy, and informed choice as requirements
 
 ## How I work
